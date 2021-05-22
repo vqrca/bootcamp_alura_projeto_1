@@ -1,4 +1,6 @@
-![imagem](https://github.com/vqrca/bootcamp-alura-2021-modulo-01/blob/main/imagem2.png)
+<p align="center">
+  <img src="https://github.com/vqrca/bootcamp-alura-2021-modulo-01/blob/main/imagem2.png" />
+</p>
 
 ---
 
