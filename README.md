@@ -4,12 +4,12 @@
 
 ---
 
-**Bootcamp de Data Science Aplicada - Módulo 01: Python e pandas para análise de dados reais**
+# **Bootcamp de Data Science Aplicada: Módulo 01: Python e Pandas para Análise de Dados Reais**
 
 Este é o projeto do módulo 01, desenvolvido no Bootcamp Data Science Aplicada 2, da Alura. 
 O Módulo 01 foi sobre Python e pandas para análise de dados reais. Neste módulo foi possível aprender como utilizar Python, Pandas e Matplotlib para explorar os dados financeiros do SUS, mais precisamente os gastos por Unidade Federativa ao longo dos anos. Após aprender como realizar essas análises, foi possível desenvolver esse projeto, onde o objetivo era analisar uma outra informação referente a base de dados de produção hospitalar, seja número de internação, óbito, dias de permanência, taxa de mortalidade ou qualquer outra informação disponível no banco de dados do DATASUS. 
 
-**Projeto desenvolvido**: **Análise dos Gastos Hospitalares do SUS (Sistema Único de Saúde) e Evolução das Taxas de Mortalidade no Brasil**
+# **Projeto desenvolvido**: **Análise dos Gastos Hospitalares do SUS (Sistema Único de Saúde) e Evolução das Taxas de Mortalidade no Brasil**
 
 A aquisição dos dados foi realizada na base de dados governamental de [Produção Hospitalar](https://www2.datasus.gov.br/DATASUS/index.php?area=0202&id=11633&VObj=http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sih/cnv/qi), que disponibliza uma série de informações como número de internação, dias de permanência, procedimentos, exames, atos médicos realizados, diagnóstico,
 motivo da alta, número de óbitos, taxa de mortalidade, etc. 
@@ -27,7 +27,7 @@ apresentação da AIH para faturamento.
 
   Período correspondente à data de internação do paciente na unidade hospitalar.
 
-**Estrutura do projeto:**
+## **Estrutura do projeto:**
 
 Este projeto está dividido em três partes:
 
@@ -47,7 +47,7 @@ Portanto, os objetos delimitados dentro desses tópicos foram:
 - Qual é a taxa de mortalidade por ano em cada Estado?
 - A taxa de mortalidade aumentou após a pandemia de Sars-CoV-2? 
 
-**Dados utilizados**
+## **Dados utilizados**
 
 **Valor total**
 
@@ -69,13 +69,13 @@ internações, no período, multiplicada por 100.
 
 ---
 
-**Um pouco sobre mim**
+## **Um pouco sobre mim**
 
 Sou bióloga e tenho Doutorado em Biotecnologia pela Universidade de Mogi das Cruzes. Atuo na área de Microbiologia, com ênfase em Biologia Molecular e Genômica. Possuo conhecimentos sólidos das técnicas comumente empregadas em genômica estrutural e genômica funcional. Atualmente, sou Pesquisadora Colaboradora no programa de Biossistemas da Universidade Federal do ABC.
 
 ---
 
-**Onde encontrar meu trabalho?**
+## **Onde encontrar meu trabalho?**
 
 [LinkedIn](https://www.linkedin.com/in/valqu%C3%ADria-alencar-786a8911b/)
 
