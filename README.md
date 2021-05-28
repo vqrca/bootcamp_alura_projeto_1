@@ -31,21 +31,21 @@ apresentação da AIH para faturamento.
 
 Este projeto está dividido em três partes:
 
-1.   Análise dos gastos hospitalares totais em todos os Estados Brasileiros
+1.   Análise dos gastos hospitalares totais em todas as Unidades da Federação
 
-2.   Análise do número de internações em todos os Estados Brasileiros
+2.   Análise do número de internações em todas as Unidades da Federação
 
-3.   Análise do número de óbitos e taxa de mortalidade em todos os Estados Brasileiros
+3.   Análise do número de óbitos e taxa de mortalidade em todas as Unidades da Federação
 
 Portanto, os objetos delimitados dentro desses tópicos foram:
-- Quais estados têm mais gastos hospitalares? 
+- Quais Unidades da Federação têm mais gastos hospitalares? 
 - Qual a relação de gastos nas regiões brasileiras?
-- Os gastos são proporcionais ao tamanho populacional de cada Estado? 
+- Os gastos são proporcionais ao tamanho populacional de cada Unidade da Federação? 
 - Há picos de gastos períodos associados com surtos de doenças? 
 - O aumento de gastos e internações estão crescendo juntos? 
 - Qual a média de internações por ano?
-- Qual é a taxa de mortalidade por ano em cada Estado?
-- A taxa de mortalidade aumentou após a pandemia de Sars-CoV-2? 
+- Qual é a taxa de mortalidade por ano em cada Unidade da Federação?
+- A taxa de mortalidade aumentou após a pandemia de SARS-CoV-2? 
 
 ## **Dados utilizados**
 
