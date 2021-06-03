@@ -41,7 +41,7 @@ Portanto, os objetos delimitados dentro desses tópicos foram:
 - Quais Unidades da Federação têm mais gastos hospitalares? 
 - Qual a relação de gastos nas regiões brasileiras?
 - Os gastos são proporcionais ao tamanho populacional de cada Unidade da Federação? 
-- Há picos de gastos períodos associados com surtos de doenças? 
+- Há picos de gastos associados com surtos de doenças? 
 - O aumento de gastos e internações estão crescendo juntos? 
 - Qual a média de internações por ano?
 - Qual é a taxa de mortalidade por ano em cada Unidade da Federação?
