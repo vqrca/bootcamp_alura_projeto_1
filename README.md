@@ -7,7 +7,7 @@
 # **Bootcamp de Data Science Aplicada: Módulo 01: Python e Pandas para Análise de Dados Reais**
 
 Este é o projeto do módulo 01, desenvolvido no Bootcamp Data Science Aplicada 2, da Alura. 
-O Módulo 01 foi sobre Python e pandas para análise de dados reais. Neste módulo foi possível aprender como utilizar Python, Pandas e Matplotlib para explorar os dados financeiros do SUS, mais precisamente os gastos por Unidade Federativa ao longo dos anos. Após aprender como realizar essas análises, foi possível desenvolver esse projeto, onde o objetivo era analisar uma outra informação referente a base de dados de produção hospitalar, seja número de internação, óbito, dias de permanência, taxa de mortalidade ou qualquer outra informação disponível no banco de dados do DATASUS. 
+O Módulo 01 foi sobre Python e pandas para análise de dados reais. Neste módulo foi possível aprender como utilizar Python, Pandas e Matplotlib para explorar os dados financeiros do SUS, mais precisamente os gastos por Unidade Federativa ao longo dos anos. Após aprender como realizar essas análises, foi possível desenvolver esse projeto, onde o objetivo era analisar uma outra informação referente a base de dados de produção hospitalar, seja número de internação, óbitos, dias de permanência, taxa de mortalidade ou qualquer outra informação disponível no banco de dados do DATASUS. 
 
 # **Projeto desenvolvido**: **Análise dos Gastos Hospitalares do SUS (Sistema Único de Saúde) e Evolução das Taxas de Mortalidade no Brasil**
 
@@ -35,7 +35,7 @@ Este projeto está dividido em três partes:
 
 2.   Análise do número de internações em todas as Unidades da Federação
 
-3.   Análise do número de óbitos e taxa de mortalidade em todas as Unidades da Federação
+3.   Análise do número de óbitos e taxas de mortalidade em todas as Unidades da Federação
 
 Portanto, os objetos delimitados dentro desses tópicos foram:
 - Quais Unidades da Federação têm mais gastos hospitalares? 
